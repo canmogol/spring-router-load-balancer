@@ -5,7 +5,7 @@
 
 	<groupId>com.fererlab.spring</groupId>
 	<artifactId>spring-router-load-balancer</artifactId>
-	<version>0.0.1</version>
+	<version>0.1.0</version>
 
 	<name>spring-router-load-balancer</name>
 	<description>Spring Router and Load Balancer with Zuul Proxy</description>
